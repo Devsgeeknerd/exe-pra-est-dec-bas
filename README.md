@@ -4,7 +4,7 @@
 ***Exercícios:***
 
 * [ ] [Exercício 1 — Operadores Relacionais.](https://github.com/Devsgeeknerd/exe-1-ope-rel-exe-pra-est-dec-bas) &#128679;
-* [ ] [Exercício 2 — Operadores de Comparação.](https://github.com/exe-2-ope-com-exe-pra-est-dec-bas) &#128679;
+* [ ] [Exercício 2 — Operadores de Comparação.](https://github.com/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas) &#128679;
 * [ ] [Exercício 3 — Fluxograma.](https://github.com/Devsgeeknerd/exe-3-flu-est-pra-est-dec-bas) &#128679;
 * [ ] [Exercício 4 — Fluxograma.](https://github.com/Devsgeeknerd/exe-4-flu-est-pra-est-dec-bas) &#128679;
 * [ ] [Exercício 5 — Fluxograma.](https://github.com/Devsgeeknerd/exe-5-flu-est-pra-est-dec-bas) &#128679;
